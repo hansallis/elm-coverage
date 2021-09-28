@@ -9,7 +9,7 @@
         "chai": "^4.3.4",
         "chai-json-schema-ajv": "^2.0.1",
         "chai-match-pattern": "^1.2.0",
-        "mocha": "^4.1.0",
+        "mocha": "^9.1.2",
         "shelljs": "^0.7.8"
     },
     "dependencies": {
